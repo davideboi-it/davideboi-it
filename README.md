@@ -1,6 +1,6 @@
 # Hi, I'm Davide Boi
 
-I have a background in Computer Science from my earlier studies. After gaining experience in different industries (including mechanics, which sharpened my technical troubleshooting and manual skills);I am now returning to my roots in the IT field with total focus and dedication.
+I have a background in Computer Science from my earlier studies. After gaining experience in different industries (including mechanics, which sharpened my technical troubleshooting and manual skills); I am now returning to my roots in the IT field with total focus and dedication.
 
 I am a proactive learner, combining my previous technical foundation with modern certifications to become a versatile System Administrator.
 
