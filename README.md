@@ -25,6 +25,11 @@ I am now synthesizing my hands-on mechanical dexterity, software troubleshooting
 * **Career Objective:** Preparing to bring my hybrid hardware-software expertise, work ethic, and customer-focused approach to world-class IT environments and infrastructure programs.
 
 ---
+
+*If you are a recruiter or an IT professional, feel free to explore the modules to see my approach to technical documentation and infrastructure logic.*
+
+---
+
 > *"I am driven by the challenge of fixing complex systems, whether they are made of software, hardware, or gears."*
 <!--
 **davideboi-it/davideboi-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
