@@ -4,7 +4,7 @@ IT technician in training, aiming for a **Data Center Technician** role. I combi
 
 ## Background
 - IT diploma (2016) and early work as an IT field technician and electrician: PC repair, hardware and basic network setup
-- Industrial electrician (about 1 year): wiring and installation work
+- Electrician’s Assistant (about 1 year): wiring and installation work
 - About 5 years as a vehicle inspector and mechanic: systematic troubleshooting and working to procedures
 - Technical support for enterprise software, in Italian and English, since 2024
 - Languages: Italian (native), English (fluent), French and Portuguese (basic)
